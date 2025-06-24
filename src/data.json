@@ -1,0 +1,27 @@
+{
+  "name": "Rangga B.S.",
+  "customerId": "LJN-2024-007",
+  "paket": {
+    "name": "Paket Gamer 100 Mbps",
+    "description": "Internet super cepat untuk gaming dan streaming tanpa batas.",
+    "speed": "100 Mbps",
+    "price": "Rp 350.000,- / bulan"
+  },
+  "tagihan": {
+    "status": "Lunas",
+    "jatuhTempo": "20 Juli 2025",
+    "nominal": "Rp 350.000,-"
+  },
+  "penggunaanData": [
+    { "bulan": "Jan", "gb": 120 },
+    { "bulan": "Feb", "gb": 150 },
+    { "bulan": "Mar", "gb": 130 },
+    { "bulan": "Apr", "gb": 180 },
+    { "bulan": "Mei", "gb": 220 },
+    { "bulan": "Jun", "gb": 190 }
+  ],
+  "kuotaBulanIni": {
+    "total": 1000,
+    "terpakai": 190
+  }
+}
